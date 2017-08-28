@@ -1,17 +1,17 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Renato Frota - Desenvolvedor Web
+description: Site pessoal e blog de um desenvolvedor que adora viajar (de avião e na maionese)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://renatofrota.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: renatofrota
+user_description: Desenvolvedor Web
+email: renatofrota@gmail.com
+twitter_username: Renato_Frota
+github_username: renatofrota
+gplus_username: +RenatoFrota
+disqus_username: renatofrota
 
 # Build settings
 markdown: kramdown
@@ -31,11 +31,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Séries
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: Sobre mim
     url: /about
 
 # exclude my node related stuff
