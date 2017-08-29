@@ -2,7 +2,7 @@
 title: Renato Frota - Desenvolvedor Web
 description: Site pessoal e blog de um desenvolvedor que adora viajar (de avião e na maionese)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://renatofrota.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://renatofrota.github.io" # the base protocol & hostname for your site
 
 # User settings
 username: renatofrota
