@@ -2,7 +2,7 @@
 title: Renato Frota - Desenvolvedor Web
 description: Site pessoal e blog de um desenvolvedor que adora viajar (de avião e na maionese)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://renatofrota.github.io" # the base protocol & hostname for your site
+url: "https://www.renatofrota.com" # the base protocol & hostname for your site
 
 # User settings
 username: renatofrota
@@ -11,7 +11,7 @@ email: renatofrota@gmail.com
 twitter_username: Renato_Frota
 github_username: renatofrota
 gplus_username: +RenatoFrota
-disqus_username: renatofrota
+disqus_subdomain: "renato-frota" # it's not the username, it's the subdomain of your "Site"
 
 # Build settings
 markdown: kramdown
