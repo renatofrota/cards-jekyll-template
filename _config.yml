@@ -1,6 +1,6 @@
 # Site settings
 title: Renato Frota - Desenvolvedor Web
-description: Site pessoal e blog de um desenvolvedor que adora viajar (de avião e na maionese)
+description: Site pessoal e blog de um desenvolvedor que adora viajar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.renatofrota.com" # the base protocol & hostname for your site
 
@@ -11,7 +11,7 @@ email: renatofrota@gmail.com
 twitter_username: Renato_Frota
 github_username: renatofrota
 gplus_username: +RenatoFrota
-disqus_subdomain: "renato-frota" # it's not the username, it's the subdomain of your "Site"
+disqus_shortname: "renato-frota" # it's not the username, it's used as subdomain of your Disqus' Site
 
 # Build settings
 markdown: kramdown
