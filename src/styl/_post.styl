@@ -27,8 +27,8 @@ $padding-title-header
             font-size rem(20px)
     li 
         padding rem(10px) 0
-        ul 
-        margin-bottom 0
+        & > ul 
+            margin-bottom 0
     p,li
         color texts
         code
@@ -57,7 +57,8 @@ $padding-title-header
         width 100%
     #twitter-widget-0, 
     .instagram-media
-    	margin auto !important
+    .twitter-tweet
+    	margin 20px auto !important
     h1,h2,h3,h4,h5
         mainFont(800)
         @extend $padding-title-header

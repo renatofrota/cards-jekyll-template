@@ -1,4 +1,5 @@
 (function( $, window, undefined ) {
+
   // Menu
   $("a#slide").click(function(){
     $("#sidebar,a#slide,#fade").addClass("slide");
@@ -63,13 +64,13 @@ function scrollBanner() {
   var headerText = document.querySelector('.header-post .content')
   scrollPos = window.scrollY;
 
-  if (scrollPos <= 500 && headerText != null) {
+  if (scrollPos <= 500) {
       headerText.style.transform =  "translateY(" + (-scrollPos/3) +"px" + ")";
       headerText.style.opacity = 1-(scrollPos/500);
   }
 }
 
-if (screen.width > 1024) {
+if (screen.width > 1024 && document.getElementsByClassName('header-post').length >=1) {
   window.addEventListener('scroll', scrollBanner);
 }
 

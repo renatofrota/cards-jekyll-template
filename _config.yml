@@ -1,11 +1,13 @@
 # Site settings
-title: Renato Frota - Desenvolvedor Web
-description: Site pessoal e blog de um desenvolvedor que adora viajar
+title: "Renato Frota - Desenvolvedor Web"
+description: "Site pessoal e blog de um desenvolvedor que adora viajar"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.renatofrota.com" # the base protocol & hostname for your site
+lang: "pt-br"
 
 # User settings
-username: renatofrota
+author: Renato Frota
+author_url: http://fb.com/renatofrota
 user_description: Desenvolvedor Web
 email: renatofrota@gmail.com
 twitter_username: Renato_Frota
@@ -17,7 +19,6 @@ disqus_shortname: "renato-frota" # it's not the username, it's used as subdomain
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
 
 # html minify
 compress_html:
