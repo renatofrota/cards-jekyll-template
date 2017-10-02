@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cards-jekyll-template.renatofrota.com" # the base protocol & hostname for your site
 lang: "en-us"
 comments: "Comments"
-forcehttps: false
+forcehttps: true
 
 # User settings
 author: John Doe
