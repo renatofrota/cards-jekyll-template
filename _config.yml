@@ -2,7 +2,7 @@
 title: "John Doe"
 description: "Personal blog of a developer"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cards-jekyll-template.renatofrota.com" # the base protocol & hostname for your site
+url: "https://renatofrota.github.io/cards-jekyll-template" # the base protocol & hostname for your site
 lang: "en-us"
 comments: "Comments"
 forcehttps: true
