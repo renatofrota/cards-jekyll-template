@@ -1,7 +1,5 @@
-# Renato Frota - Desenvolvedor Web
-Site pessoal e blog de um desenvolvedor que adora viajar
-(https://www.renatofrota.com)
+# Cards Jekyll Template
 
-## Created with [Cards Jekyll Template by Willian Justen](https://github.com/willianjusten/cards-jekyll-template).
+## A slightly modded templated, based in [Cards Jekyll Template by Willian Justen](https://github.com/willianjusten/cards-jekyll-template).
 
 ![Screenshot](screenshot.png)
