@@ -2,4 +2,4 @@
 
 A slightly modded templated, based in [Cards Jekyll Template by Willian Justen](https://github.com/willianjusten/cards-jekyll-template).
 
-[Demo](http://cards-jekyll-template.renatofrota.com)
+[Demo](https://renatofrota.github.io/cards-jekyll-template)
