@@ -1,5 +1,10 @@
 # Site settings
 title: "John Doe"
+
+# edit "John Doe" and "JD" also in following files:
+# assets/css/main.css
+# src/styl/_header.styl
+
 description: "Personal blog of a developer"
 baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
 url: "https://renatofrota.github.io" # the base protocol & hostname for your site
