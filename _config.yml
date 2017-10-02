@@ -1,19 +1,20 @@
 # Site settings
-title: "Renato Frota - Desenvolvedor Web"
-description: "Site pessoal e blog de um desenvolvedor que adora viajar"
+title: "John Doe"
+description: "Personal blog of a developer"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.renatofrota.com" # the base protocol & hostname for your site
-lang: "pt-br"
+url: "http://cards-jekyll-template.renatofrota.com" # the base protocol & hostname for your site
+lang: "en-us"
+comments: "Comments"
 
 # User settings
-author: Renato Frota
-author_url: http://fb.com/renatofrota
-user_description: Desenvolvedor Web
-email: renatofrota@gmail.com
-twitter_username: Renato_Frota
-github_username: renatofrota
-gplus_username: +RenatoFrota
-disqus_shortname: "renato-frota" # it's not the username, it's used as subdomain of your Disqus' Site
+author: John Doe
+author_url: http://fb.com/johndoe
+user_description: Web Developer
+email: john@doe.com
+twitter_username: john_doe
+github_username: johndoe
+gplus_username: +JohnDoe
+disqus_shortname: "john-doe" # it's not the username, it's used as subdomain of your Disqus' Site
 
 # Build settings
 markdown: kramdown
@@ -32,11 +33,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Séries
+  - title: Series
     url: /series
   - title: Tags
     url: /tags
-  - title: Sobre mim
+  - title: About
     url: /about
 
 # exclude my node related stuff

@@ -1,5 +1,5 @@
 <section class="comments">
-    <h3>Comentários</h3>
+    <h3>{{ site.comments }}</h3>
     <div id="disqus_thread"></div>
 </section>
 <script type="text/javascript">
@@ -21,9 +21,9 @@
         disqus_loaded = true;
     };
     window.onscroll = function(e) {
-        if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
-            //hit bottom of page
-            if (disqus_loaded==false)
+        if (disqus_loaded==false) {
+            if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800))
+                //hit bottom of page
                 load_disqus()
         }
     };
