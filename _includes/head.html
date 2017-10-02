@@ -60,5 +60,5 @@
     <link rel="stylesheet" href="{{ "{{site.baseurl}}/assets/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-    <script type="text/javascript">if ((location.protocol !== "https:") && (window.location.hostname != "127.0.0.1") && (window.location.hostname != "localhost")) location.protocol = "https:";</script>
-</head>
+    <!-- force https begin: <script type="text/javascript">if ((location.protocol !== "https:") && (window.location.hostname != "127.0.0.1") && (window.location.hostname != "localhost")) location.protocol = "https:";</script>
+</head> :force https end -->
