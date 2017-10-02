@@ -1,8 +1,8 @@
 # Site settings
 title: "John Doe"
 description: "Personal blog of a developer"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://renatofrota.github.io/cards-jekyll-template" # the base protocol & hostname for your site
+baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
+url: "https://renatofrota.github.io" # the base protocol & hostname for your site
 lang: "en-us"
 comments: "Comments"
 forcehttps: true
